@@ -1,3 +1,3 @@
 # MeanAuthApp
-A MEAN application created during the course by Brad Traversy.
+A MEAN web application created during the course by Brad Traversy.
 
